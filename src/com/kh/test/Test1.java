@@ -1,6 +1,6 @@
 package com.kh.test;
 
-public class Test11 {
+public class Test112 {
 
 	public static void main(String[] args) {
 
